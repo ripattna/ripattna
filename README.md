@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rissan Pattnaik</h1>
 <h3 align="center">A passionate Data Scientist & Data Engineer!</h3>
 
-- 🔭 I’m currently working on [PySpark-Usecase](https://github.com/ripattna/PySpark-Usecase)
+- 🔭 I’m currently working on [Machine Learning](https://github.com/ripattna/ML)
 
 - 👯 I’m looking to collaborate on [Data-Science](https://github.com/ripattna/Data-Science)
 
