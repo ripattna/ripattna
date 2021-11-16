@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/ripattna/ML)
 
-- 👯 I’m looking to collaborate on [Data-Science](https://github.com/ripattna/Data-Science)
+- 👯 I’m looking to collaborate on [Data-Science](https://github.com/ripattna/Machine-Learning)
 
 - 📫 How to reach me **ripattna@gmail.com**
 
